@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'givgauss2': Generalized two-parameter (2-parameter) log-inverse Gaussian regression Use givgauss2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f givgauss2.ado
+f givgauss2.hlp
+f glgamma2.ado
+f glgamma2.hlp
+f ivgln_ll.ado
+f lgamm_ll.ado
