@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p givgauss2 Generalized two-parameter (2-parameter) log-inverse Gaussian regression Use givgauss2 With STATA 18
