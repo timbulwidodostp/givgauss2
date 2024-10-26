@@ -1,6 +1,8 @@
 # givgauss2
 Generalized two-parameter (2-parameter) log-inverse Gaussian regression Use givgauss2 With STATA 18
 
+https://www.youtube.com/watch?v=2mlaHHap2Gw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
